@@ -1,0 +1,10 @@
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.Form1.resources
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.Properties.Resources.resources
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.csproj.GenerateResource.Cache
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\cnsql\cnsql\bin\Debug\cnsql.exe.config
+C:\Users\fernando\source\repos\cnsql\cnsql\bin\Debug\cnsql.exe
+C:\Users\fernando\source\repos\cnsql\cnsql\bin\Debug\cnsql.pdb
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.exe
+C:\Users\fernando\source\repos\cnsql\cnsql\obj\Debug\cnsql.pdb

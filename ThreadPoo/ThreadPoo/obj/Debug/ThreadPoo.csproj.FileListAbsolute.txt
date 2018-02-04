@@ -1,0 +1,7 @@
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\bin\Debug\ThreadPoo.exe.config
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\bin\Debug\ThreadPoo.exe
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\bin\Debug\ThreadPoo.pdb
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\obj\Debug\ThreadPoo.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\obj\Debug\ThreadPoo.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\obj\Debug\ThreadPoo.exe
+C:\Users\fernando\source\repos\ThreadPoo\ThreadPoo\obj\Debug\ThreadPoo.pdb

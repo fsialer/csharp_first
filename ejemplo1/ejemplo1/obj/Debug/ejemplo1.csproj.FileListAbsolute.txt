@@ -1,0 +1,7 @@
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe.config
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\bin\Debug\ejemplo1.pdb
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\obj\Debug\ejemplo1.exe
+C:\Users\fernando\source\repos\ejemplo1\ejemplo1\obj\Debug\ejemplo1.pdb

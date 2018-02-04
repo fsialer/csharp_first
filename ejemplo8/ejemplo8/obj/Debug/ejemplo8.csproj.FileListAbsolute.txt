@@ -1,0 +1,7 @@
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\bin\Debug\ejemplo8.exe.config
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\bin\Debug\ejemplo8.exe
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\bin\Debug\ejemplo8.pdb
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\obj\Debug\ejemplo8.csprojResolveAssemblyReference.cache
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\obj\Debug\ejemplo8.csproj.CoreCompileInputs.cache
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\obj\Debug\ejemplo8.exe
+c:\users\fernando\source\repos\ejemplo8\ejemplo8\obj\Debug\ejemplo8.pdb

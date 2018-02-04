@@ -1,0 +1,11 @@
+C:\Users\fernando\source\repos\interfaces\interfaces\bin\Debug\netcoreapp2.0\interfaces.deps.json
+C:\Users\fernando\source\repos\interfaces\interfaces\bin\Debug\netcoreapp2.0\interfaces.runtimeconfig.json
+C:\Users\fernando\source\repos\interfaces\interfaces\bin\Debug\netcoreapp2.0\interfaces.runtimeconfig.dev.json
+C:\Users\fernando\source\repos\interfaces\interfaces\bin\Debug\netcoreapp2.0\interfaces.dll
+C:\Users\fernando\source\repos\interfaces\interfaces\bin\Debug\netcoreapp2.0\interfaces.pdb
+C:\Users\fernando\source\repos\interfaces\interfaces\obj\Debug\netcoreapp2.0\interfaces.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\interfaces\interfaces\obj\Debug\netcoreapp2.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\interfaces\interfaces\obj\Debug\netcoreapp2.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\fernando\source\repos\interfaces\interfaces\obj\Debug\netcoreapp2.0\interfaces.AssemblyInfo.cs
+C:\Users\fernando\source\repos\interfaces\interfaces\obj\Debug\netcoreapp2.0\interfaces.dll
+C:\Users\fernando\source\repos\interfaces\interfaces\obj\Debug\netcoreapp2.0\interfaces.pdb

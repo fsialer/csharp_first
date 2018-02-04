@@ -1,0 +1,11 @@
+C:\Users\fernando\source\repos\Staticos\Staticos\bin\Debug\netcoreapp2.0\Staticos.deps.json
+C:\Users\fernando\source\repos\Staticos\Staticos\bin\Debug\netcoreapp2.0\Staticos.runtimeconfig.json
+C:\Users\fernando\source\repos\Staticos\Staticos\bin\Debug\netcoreapp2.0\Staticos.runtimeconfig.dev.json
+C:\Users\fernando\source\repos\Staticos\Staticos\bin\Debug\netcoreapp2.0\Staticos.dll
+C:\Users\fernando\source\repos\Staticos\Staticos\bin\Debug\netcoreapp2.0\Staticos.pdb
+C:\Users\fernando\source\repos\Staticos\Staticos\obj\Debug\netcoreapp2.0\Staticos.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\Staticos\Staticos\obj\Debug\netcoreapp2.0\Staticos.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\Staticos\Staticos\obj\Debug\netcoreapp2.0\Staticos.AssemblyInfoInputs.cache
+C:\Users\fernando\source\repos\Staticos\Staticos\obj\Debug\netcoreapp2.0\Staticos.AssemblyInfo.cs
+C:\Users\fernando\source\repos\Staticos\Staticos\obj\Debug\netcoreapp2.0\Staticos.dll
+C:\Users\fernando\source\repos\Staticos\Staticos\obj\Debug\netcoreapp2.0\Staticos.pdb

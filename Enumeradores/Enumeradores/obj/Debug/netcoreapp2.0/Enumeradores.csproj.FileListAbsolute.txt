@@ -1,0 +1,11 @@
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\bin\Debug\netcoreapp2.0\Enumeradores.deps.json
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\bin\Debug\netcoreapp2.0\Enumeradores.runtimeconfig.json
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\bin\Debug\netcoreapp2.0\Enumeradores.runtimeconfig.dev.json
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\bin\Debug\netcoreapp2.0\Enumeradores.dll
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\bin\Debug\netcoreapp2.0\Enumeradores.pdb
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\obj\Debug\netcoreapp2.0\Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\obj\Debug\netcoreapp2.0\Enumeradores.AssemblyInfoInputs.cache
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\obj\Debug\netcoreapp2.0\Enumeradores.AssemblyInfo.cs
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\obj\Debug\netcoreapp2.0\Enumeradores.dll
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\obj\Debug\netcoreapp2.0\Enumeradores.pdb
+C:\Users\fernando\source\repos\Enumeradores\Enumeradores\obj\Debug\netcoreapp2.0\Enumeradores.csprojResolveAssemblyReference.cache

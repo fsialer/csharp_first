@@ -1,0 +1,10 @@
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\bin\Debug\netcoreapp2.0\funcionLocal.deps.json
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\bin\Debug\netcoreapp2.0\funcionLocal.runtimeconfig.json
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\bin\Debug\netcoreapp2.0\funcionLocal.runtimeconfig.dev.json
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\bin\Debug\netcoreapp2.0\funcionLocal.dll
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\bin\Debug\netcoreapp2.0\funcionLocal.pdb
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\obj\Debug\netcoreapp2.0\funcionLocal.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\obj\Debug\netcoreapp2.0\funcionLocal.AssemblyInfoInputs.cache
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\obj\Debug\netcoreapp2.0\funcionLocal.AssemblyInfo.cs
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\obj\Debug\netcoreapp2.0\funcionLocal.dll
+C:\Users\fernando\source\repos\funcionLocal\funcionLocal\obj\Debug\netcoreapp2.0\funcionLocal.pdb

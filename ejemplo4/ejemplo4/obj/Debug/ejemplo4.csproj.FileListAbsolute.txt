@@ -1,0 +1,6 @@
+C:\Users\fernando\source\repos\ejemplo4\ejemplo4\bin\Debug\ejemplo4.exe.config
+C:\Users\fernando\source\repos\ejemplo4\ejemplo4\bin\Debug\ejemplo4.exe
+C:\Users\fernando\source\repos\ejemplo4\ejemplo4\bin\Debug\ejemplo4.pdb
+C:\Users\fernando\source\repos\ejemplo4\ejemplo4\obj\Debug\ejemplo4.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\ejemplo4\ejemplo4\obj\Debug\ejemplo4.exe
+C:\Users\fernando\source\repos\ejemplo4\ejemplo4\obj\Debug\ejemplo4.pdb

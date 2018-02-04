@@ -1,0 +1,11 @@
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\netcoreapp2.0\Encapsulamiento.deps.json
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\netcoreapp2.0\Encapsulamiento.runtimeconfig.json
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\netcoreapp2.0\Encapsulamiento.runtimeconfig.dev.json
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\netcoreapp2.0\Encapsulamiento.dll
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\netcoreapp2.0\Encapsulamiento.pdb
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\netcoreapp2.0\Encapsulamiento.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\netcoreapp2.0\Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\netcoreapp2.0\Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\netcoreapp2.0\Encapsulamiento.AssemblyInfo.cs
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\netcoreapp2.0\Encapsulamiento.dll
+C:\Users\fernando\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\netcoreapp2.0\Encapsulamiento.pdb

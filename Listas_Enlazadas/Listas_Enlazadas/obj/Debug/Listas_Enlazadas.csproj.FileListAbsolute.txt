@@ -1,0 +1,7 @@
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\bin\Debug\Listas_Enlazadas.exe.config
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\bin\Debug\Listas_Enlazadas.exe
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\bin\Debug\Listas_Enlazadas.pdb
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\obj\Debug\Listas_Enlazadas.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\obj\Debug\Listas_Enlazadas.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\obj\Debug\Listas_Enlazadas.exe
+C:\Users\fernando\source\repos\Listas_Enlazadas\Listas_Enlazadas\obj\Debug\Listas_Enlazadas.pdb

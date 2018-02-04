@@ -1,0 +1,11 @@
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\bin\Debug\netcoreapp2.0\proherpolencap.deps.json
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\bin\Debug\netcoreapp2.0\proherpolencap.runtimeconfig.json
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\bin\Debug\netcoreapp2.0\proherpolencap.runtimeconfig.dev.json
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\bin\Debug\netcoreapp2.0\proherpolencap.dll
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\bin\Debug\netcoreapp2.0\proherpolencap.pdb
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\obj\Debug\netcoreapp2.0\proherpolencap.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\obj\Debug\netcoreapp2.0\proherpolencap.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\obj\Debug\netcoreapp2.0\proherpolencap.AssemblyInfoInputs.cache
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\obj\Debug\netcoreapp2.0\proherpolencap.AssemblyInfo.cs
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\obj\Debug\netcoreapp2.0\proherpolencap.dll
+C:\Users\fernando\source\repos\proherpolencap\proherpolencap\obj\Debug\netcoreapp2.0\proherpolencap.pdb

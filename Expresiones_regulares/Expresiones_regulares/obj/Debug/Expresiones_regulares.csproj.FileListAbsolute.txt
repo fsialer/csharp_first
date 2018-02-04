@@ -1,0 +1,7 @@
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\bin\Debug\Expresiones_regulares.exe.config
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\bin\Debug\Expresiones_regulares.exe
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\bin\Debug\Expresiones_regulares.pdb
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\obj\Debug\Expresiones_regulares.csprojResolveAssemblyReference.cache
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\obj\Debug\Expresiones_regulares.csproj.CoreCompileInputs.cache
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\obj\Debug\Expresiones_regulares.exe
+C:\Users\fernando\source\repos\Expresiones_regulares\Expresiones_regulares\obj\Debug\Expresiones_regulares.pdb
